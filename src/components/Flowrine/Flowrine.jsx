@@ -13,16 +13,16 @@ const FlowrineDetails = () => {
             <Carousel fade>
   <Carousel.Item>
     <img
-      height={470}
-      width={550}
+      height={300}
+      width={250}
       src={Flowrine}
       alt="Flowrine"
     />
   </Carousel.Item>
   <Carousel.Item> 
     <img
-      height={470}
-      width={550}
+      height={300}
+      width={250}
       src={Flowrine2}
       alt="Flowrine2"
     />

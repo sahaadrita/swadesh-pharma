@@ -12,16 +12,16 @@ const Haempure = () => {
             <Carousel fade>
   <Carousel.Item>
     <img
-      height={470}
-      width={550}
+      height={300}
+      width={250}
       src={haempure}
       alt="haempure"
     />
   </Carousel.Item>
   <Carousel.Item> 
     <img
-      height={470}
-      width={550}
+      height={300}
+      width={250}
       src={haempure2}
       alt="haempure2"
     />
