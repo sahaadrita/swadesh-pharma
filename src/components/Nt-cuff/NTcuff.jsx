@@ -1,5 +1,5 @@
 import React from 'react'
-import arrow from "../../assets/arrow.png"
+
 import NTcuff from "../../assets/NTcuff.JPG"
 import NTcuff2 from "../../assets/NTcuff2.JPG"
 import { Carousel } from 'react-bootstrap'
