@@ -1,7 +1,7 @@
 import React from 'react'
 import { Carousel } from 'react-bootstrap'
 import h2liv from "../../assets/h2liv.JPG"
-import h2liv2 from "../../assets/shee.JPG"
+import h2liv2 from "../../assets/h2liv2.JPG"
 
 const H2liv = () => {
   return (
